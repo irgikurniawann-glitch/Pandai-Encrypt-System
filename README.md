@@ -30,8 +30,7 @@ python app.py
 ```
 
 ## Demo
-
-Screenshot aplikasi akan ditambahkan di sini.
+![Pandai Encrypt System](screenshots/demo-main.png)
 
 ## Learning Outcomes
 
