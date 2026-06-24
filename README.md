@@ -22,7 +22,7 @@ Aplikasi web berbasis Python yang mengimplementasikan Hybrid Cryptography menggu
 ## Installation
 
 ```bash
-git clone https://github.com/USERNAME/Pandai-Encrypt-System.git
+git clone https://github.com/irgikurniawann-glitch/Pandai-Encrypt-System.git
 cd Pandai-Encrypt-System
 
 pip install -r requirements.txt
