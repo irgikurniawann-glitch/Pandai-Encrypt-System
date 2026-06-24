@@ -31,6 +31,7 @@ python app.py
 
 ## Demo
 Main Interface
+
 ![Pandai Encrypt System](screenshots/Demo.main.png)
 
 
@@ -45,7 +46,12 @@ File Decryption Result
 
 
 QR Code Generator
+
 ![Pandai Encrypt System](screenshots/qr-generator.png)
+
+
+
+
 
 ## Learning Outcomes
 
