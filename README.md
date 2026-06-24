@@ -30,7 +30,7 @@ python app.py
 ```
 
 ## Demo
-![Pandai Encrypt System](screenshots/demo-main.png)
+![Pandai Encrypt System](screenshots/Demo-main.png)
 
 ## Learning Outcomes
 
