@@ -31,7 +31,7 @@ python app.py
 
 ## Demo
 
-
+Screenshot aplikasi akan ditambahkan di sini.
 
 ## Learning Outcomes
 
