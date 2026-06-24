@@ -36,15 +36,16 @@ Main Interface
 
 File Encryption Result
 
-
+![Pandai Encrypt System](screenshots/Hasil_file_encrypt.png)
 
 
 File Decryption Result
 
-
+![Pandai Encrypt System](screenshots/Hasil_file_decrypt.png)
 
 
 QR Code Generator
+![Pandai Encrypt System](screenshots/qr-generator.png)
 
 ## Learning Outcomes
 
