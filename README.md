@@ -30,7 +30,21 @@ python app.py
 ```
 
 ## Demo
-![Pandai Encrypt System](screenshots/Demo.main.png)
+Main Interface
+
+
+
+File Encryption Result
+
+
+
+
+File Decryption Result
+
+
+
+
+QR Code Generator
 
 ## Learning Outcomes
 
