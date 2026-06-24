@@ -50,7 +50,10 @@ QR Code Generator
 ![Pandai Encrypt System](screenshots/qr-generator.png)
 
 
+## Live Demo
 
+Try the application online:
+[Open Pandai Encrypt System](https://huggingface.co/spaces/irgikann09-co/pandai-encrypt-system)
 
 
 ## Learning Outcomes
